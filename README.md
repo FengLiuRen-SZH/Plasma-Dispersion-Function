@@ -1,4 +1,4 @@
-# 等离子体色散函数（Plasma Dispersion Function）
+# 等离子体色散函数及其导数（Plasma Dispersion Function and Its Derivatives）
 本项目提供了一个基于 MATLAB 编写的函数 std_PDF，用于计算等离子体色散函数及其高阶导数的数值，并内置误差估计。该函数接受复自变量 zeta 进行高效、高精度的计算，适用于等离子体物理、空间物理及相关领域的数值模拟。
 
 ## 引用要求 🔖
